@@ -33,6 +33,7 @@ Autor
 
 -Características-
 
+
 Inicio:	Resumen con clientes activos, membresías por vencer, ingresos del mes y máquinas en mantenimiento, más la tabla de próximos vencimientos.
 
 Clientes:	Registrar, editar y buscar clientes, darlos de baja (baja lógica) y registrar sus visitas.
@@ -52,6 +53,7 @@ Mantenimiento:	Registrar fallas y mantenimientos preventivos o correctivos, con 
 Reportes:	Seis reportes (clientes por vencer, clientes sin membresía vigente, horas por coach, máquinas en mantenimiento, ingresos por mes y resumen de clientes), con exportación a CSV.
 
 Usuarios:	Crear administradores y recepcionistas, activarlos o desactivarlos y cambiar contraseñas.
+
 
 -Tecnologías-
 Lenguaje: Java (JDK 8 o superior)
