@@ -8,6 +8,7 @@ Sistema de gestión de escritorio para un gimnasio, desarrollado en Java (Swing)
 
 -Contenido-
 Características
+
 Roles y permisos
 Tecnologías
 Requisitos
