@@ -33,16 +33,25 @@ Autor
 
 
 -Características-
-Módulo:	Qué permite hacer
+
 Inicio:	Resumen con clientes activos, membresías por vencer, ingresos del mes y máquinas en mantenimiento, más la tabla de próximos vencimientos.
+
 Clientes:	Registrar, editar y buscar clientes, darlos de baja (baja lógica) y registrar sus visitas.
+
 Membresías y pagos:	Asignar una membresía y cobrarla en una sola transacción, cancelarla y consultar el historial de pagos.
+
 Coaches:	Registrar coaches con su foto y crear su usuario de acceso.
+
 Asistencia de coaches:	Marcar entrada y salida, filtrar por coach y fechas, y calcular las horas trabajadas.
+
 Rutinas:	Subir archivos de Excel (xlsx, xls, xlsm, csv), listarlos y abrirlos con Excel.
+
 Máquinas:	Inventario con categoría, marca, serie, fecha de adquisición, estado y foto.
+
 Mantenimiento:	Registrar fallas y mantenimientos preventivos o correctivos, con seguimiento. El estado de la máquina se actualiza solo.
+
 Reportes:	Seis reportes (clientes por vencer, clientes sin membresía vigente, horas por coach, máquinas en mantenimiento, ingresos por mes y resumen de clientes), con exportación a CSV.
+
 Usuarios:	Crear administradores y recepcionistas, activarlos o desactivarlos y cambiar contraseñas.
 
 -Tecnologías-
