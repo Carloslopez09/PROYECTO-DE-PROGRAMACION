@@ -1,7 +1,9 @@
 # PROYECTO-DE-PROGRAMACION
 
 Autor: Grupo Numero 1
+
 Curso: Programación II
+
 Institución: Universidad Mariano Galves de Guatemala
 
 Sistema de gestión de escritorio para un gimnasio, desarrollado en Java (Swing) con base de datos MySQL. Permite administrar clientes, membresías y pagos, la asistencia de los coaches, las máquinas y su mantenimiento, las rutinas de entrenamiento y los reportes, con acceso diferenciado por rol.
