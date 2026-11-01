@@ -10,16 +10,27 @@ Sistema de gestión de escritorio para un gimnasio, desarrollado en Java (Swing)
 Características
 
 Roles y permisos
+
 Tecnologías
+
 Requisitos
+
 Instalación y ejecución
+
 Usuario de prueba
+
 Estructura del proyecto
+
 Base de datos
+
 Diagramas
+
 Capturas de pantalla
+
 Validaciones y seguridad
+
 Autor
+
 
 -Características-
 Módulo:	Qué permite hacer
